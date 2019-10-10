@@ -1,2 +1,0 @@
-webpackJsonp([12],{nhGF:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,n=this._self._c||e;return n("transition",{attrs:{name:"el-fade-in"}},[n("router-view")],1)},staticRenderFns:[]},l=t("VU/8")(null,r,!1,null,null,null);n.default=l.exports}});
-//# sourceMappingURL=12.4e49ede2df8da3619f35.js.map
